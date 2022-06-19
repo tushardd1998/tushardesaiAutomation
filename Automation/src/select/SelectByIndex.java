@@ -16,8 +16,7 @@ public class SelectByIndex {
 		Select sel = new Select(dropdownElement);
 		Thread.sleep(4000);
 		sel.selectByIndex(6);
-		//Test
-		Thread.sleep(4000);
+		
 	}
 
 }
