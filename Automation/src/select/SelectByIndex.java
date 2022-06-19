@@ -17,6 +17,7 @@ public class SelectByIndex {
 		Thread.sleep(4000);
 		sel.selectByIndex(6);
 		//Test
+		Thread.sleep(4000);
 	}
 
 }
