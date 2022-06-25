@@ -16,5 +16,7 @@ public class Demo1 {
 		driver.get("https://www.selenium.dev/");
 		// driver.findElement(By.xpath("/html/body/header/nav/div/ul/li[3]/a/span")).click();
 		driver.findElement(By.xpath("//span[.='Downloads']")).click();
+		
 	}
+	//https://github.com/tushardd1998/tushardesaiAutomation.git
 }
