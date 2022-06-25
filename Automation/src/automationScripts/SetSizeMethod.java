@@ -11,7 +11,7 @@ public class SetSizeMethod {
 		WebDriver driver = new ChromeDriver();
 		Thread.sleep(4000);
 		Dimension target = new Dimension(300, 900);
-		driver.manage().window().setSize(target);
+		//driver.manage().window().setSize(target);
 	}
 
 }
