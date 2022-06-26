@@ -1,5 +1,6 @@
 package testNGPack;
 
+import org.testng.annotations.Test;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
